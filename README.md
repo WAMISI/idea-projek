@@ -1,0 +1,2 @@
+# idea-projek
+wamisi repo
